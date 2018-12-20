@@ -8,6 +8,7 @@ A new Flutter project.
 # Code snippet studied from
 https://flutter.io/docs/cookbook/lists/mixed-list
 https://medium.com/@DakshHub/flutter-displaying-dynamic-contents-using-listview-builder-f2cedb1a19fb
+https://grokonez.com/flutter/flutter-listview-example-listview-builder
 
 ## Getting Started
 
