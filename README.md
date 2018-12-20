@@ -5,6 +5,10 @@ A new Flutter project.
 # Screenshot
 ![screenshot](ScreenShot.png)
 
+# Code snippet studied from
+https://flutter.io/docs/cookbook/lists/mixed-list
+https://medium.com/@DakshHub/flutter-displaying-dynamic-contents-using-listview-builder-f2cedb1a19fb
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
